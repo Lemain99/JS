@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+.slider-box{
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
+.slider{
+    width: 10000px;
+    height: 300px;
+}
+img{
+    width: 400px;
+    height: 300px;
+    float: left;
+}

@@ -1,0 +1,119 @@
+.kvad{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -400px;
+    width: 240px;
+    height: 400px;
+    background-color: rgb(202, 201, 201);
+    border: 3px inset black;
+    overflow: hidden;
+    
+
+}
+.gov{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 250px;
+    font-weight: bold;
+    opacity: 0;
+}
+
+.ffor{
+    background-color: red;
+    color: white;
+    text-align: center;
+    opacity: 0; 
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -20px;
+}
+.real{
+    background-color: red;
+    color: white;
+    text-align: center;
+    opacity: 1; 
+    position: absolute;
+    margin-left: 250px;
+}
+.man{
+    background-color: rgb(129, 0, 0);
+    color: white;
+    text-align: center;
+    opacity: 1; 
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.smart{
+    position: absolute;
+    margin-top: 325px;
+    opacity: 0;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.noyt{
+    position: absolute;
+    margin-top: 350px;
+    opacity: 0;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.plan{
+    position: absolute;
+    margin-top: 375px;
+    opacity: 0;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.mono{
+    position: absolute;
+    margin-top: 400px;
+    opacity: 0;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.nokia{
+    position: absolute;
+    margin-left: 120px;
+    opacity: 0;
+    margin-top: -65px;
+}
+
+.textl{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 25px;
+    opacity: 0;
+}
+.textz{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 50px;
+    opacity: 0;
+}
+
+.palka1{
+    width: 5px;
+    height: 15px;
+    background-color: red;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 125px;
+    opacity: 0;
+}
+.palka2{
+    width: 5px;
+    height: 15px;
+    background-color: red;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 125px;
+    opacity: 0;
+}
+.palt1{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 45px;
+    opacity: 0;
+}

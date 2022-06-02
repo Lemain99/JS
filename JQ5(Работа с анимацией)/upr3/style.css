@@ -1,0 +1,11 @@
+*{margin:0px;padding: 0px;}
+body{font-family: 'Courier New', Courier, monospace; padding: 10px;}
+.all{ margin:0 auto; border:2px dotted lightskyblue; padding:10px; overflow: hidden;}
+.center{margin: 0 auto; display: flex; justify-content:space-between;}
+.s1,.s2{height: 100px;}  
+.z{width: 25%;}  
+.s2{text-align: right;}
+.s3,.s4{opacity:0; width: 30%;}
+h1,.center{text-align: center;}  
+p{text-align: right;}
+

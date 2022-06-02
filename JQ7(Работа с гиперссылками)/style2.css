@@ -1,0 +1,11 @@
+.b{height: 1050px;}
+.red_page{background-color: red;}
+.orange_page{background-color: orange;}
+.yellow_page{background-color: yellow;}
+.green_page{background-color:yellowgreen;}
+.light_blue_page{background-color: turquoise;}
+.blue_page{background-color:blue;}
+.violet_page{background-color: blueviolet;}
+nav{text-align: center; background-color: black; padding: 20px;}
+nav a {margin-right: 10px;}
+a{text-decoration: none; color: white; font-weight: bold; font-size: 150%;}

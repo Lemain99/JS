@@ -1,0 +1,9 @@
+main {
+    margin: 0 auto;
+    width : 700 px;
+    background-color: beige;
+    padding: 20px;
+}
+button {margin-top: 15px}
+#rezult{margin-top:15px;font-weight:bold; font-size: italic; color:red;}
+h2{text-align:center;}

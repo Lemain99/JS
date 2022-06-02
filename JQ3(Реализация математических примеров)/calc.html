@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Калькулятор</title>
+    <style>
+       .of_calc{font-family: Arial, Helvetica, sans-serif;width: 500px; background-color: aquamarine; border: 1px dotted darkblue; padding:10px;}
+        #rezult{font-style: italic; font-weight: bold; color:darkblue; font-size: 120%; margin-top: 15px;}
+    </style>
+</head>
+<body>
+    <div class="of_calc">
+        <h1>Калькулятор стоимости забора</h1>
+        <form>
+            <select name="" id="mat">
+                <option value="0">Дерево</option>
+                <option value="1">Металл</option>
+                <option value="2">Пластик</option>
+            </select><br><br>
+            Высота, см.:<input type="number" id="height1" min="50" max="500" value="50"><br><br>
+            Длина, м.:<input type="number" id="width1"  min="10" max="10000" value="10"><br><br>
+            <button type="submit">Результат</button><br>
+
+        </form>    
+        <div id="rezult">
+        
+        </div>
+    </div>
+
+    <script src="jquery-3.6.0.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
